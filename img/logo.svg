@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="logo" transform="translate(-310 -298)">
+    <rect id="outer-rectangle" width="300" height="300" rx="10" transform="translate(310 298)"/>
+    <g id="center-reactangles" transform="translate(0 -3)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="50" height="40" transform="translate(368 396)" fill="#fff"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="50" height="40" transform="translate(503 466)" fill="#fff"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="105" height="40" transform="translate(448 396)" fill="#fff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="102" height="40" transform="translate(368 466)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

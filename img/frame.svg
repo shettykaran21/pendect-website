@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1233" height="749" viewBox="0 0 1233 749">
+  <g id="frame" transform="translate(-633 -191)">
+    <g id="frame-2" data-name="frame">
+      <g id="frame-3" data-name="frame" transform="translate(1)">
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(698 191)" fill="#fff" stroke="#000" stroke-linejoin="bevel" stroke-width="7">
+          <rect width="1100" height="700" rx="10" stroke="none"/>
+          <rect x="3.5" y="3.5" width="1093" height="693" rx="6.5" fill="none"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" x2="1" y2="683" transform="translate(1797.5 198.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+        <line id="Line_2" data-name="Line 2" x1="1080" transform="translate(708.5 891.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+      </g>
+      <g id="inner-frame" transform="translate(828 198)" fill="none" stroke="#cacaca" stroke-width="1">
+        <rect width="851" height="686" stroke="none"/>
+        <rect x="0.5" y="0.5" width="850" height="685" fill="none"/>
+      </g>
+      <text id="PENDECT" transform="translate(874 228)" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">PENDECT</tspan></text>
+      <text id="Latest_Cards" data-name="Latest Cards" transform="translate(901 525)" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Latest Cards</tspan></text>
+      <g id="logo" transform="translate(607 -64)">
+        <rect id="outer-rectangle" width="29" height="29" rx="2" transform="translate(233 272)"/>
+        <g id="center-reactangles" transform="translate(238.273 281.667)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="6" height="3" transform="translate(-0.273 0.333)" fill="#fff"/>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="6" height="4" transform="translate(12.727 6.333)" fill="#fff"/>
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="11" height="3" transform="translate(7.727 0.333)" fill="#fff"/>
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="11" height="4" transform="translate(-0.273 6.333)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_3" data-name="Line 3" x2="851" transform="translate(828.5 244.5)" fill="none" stroke="#cacaca" stroke-width="1"/>
+      <g id="Search">
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="415" height="30" transform="translate(975 208)" fill="#efefef"/>
+        <text id="Search_Site" data-name="Search Site" transform="translate(989 228)" fill="#939393" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Search Site</tspan></text>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="64" height="24" transform="translate(1504 209)"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="64" height="24" transform="translate(1586 209)" fill="#c10000"/>
+      <text id="LOGIN" transform="translate(1523 224)" fill="#fff" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">LOGIN</tspan></text>
+      <text id="SUBMIT" transform="translate(1604 224)" fill="#fff" font-size="7" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">SUBMIT</tspan></text>
+      <line id="Line_4" data-name="Line 4" y2="647" transform="translate(1430.5 244.5)" fill="none" stroke="#cacaca" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" x1="602" transform="translate(828.5 552.5)" fill="none" stroke="#cacaca" stroke-width="1"/>
+      <g id="article-1">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="451" height="207" rx="5" transform="translate(901 291)"/>
+        <text id="Welcome_to_Pendect" data-name="Welcome to Pendect" transform="translate(921 330)" fill="#fff" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Welcome to Pendect</tspan></text>
+      </g>
+      <g id="article-2">
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="451" height="207" rx="5" transform="translate(901 616)" fill="#e0e0e0"/>
+        <text id="News_Article" data-name="News Article" transform="translate(921 655)" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">News Article</tspan></text>
+      </g>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(633 253)" fill="#efefef"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" transform="translate(1830 321)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="10.5" cy="10.5" r="10.5" transform="translate(781 919)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="10.5" cy="10.5" r="10.5" transform="translate(648 310)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="15" cy="15" r="15" transform="translate(1836 253)" fill="#efefef"/>
+  </g>
+</svg>
